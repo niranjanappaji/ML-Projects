@@ -8,21 +8,15 @@ Dataset
 
 The dataset used in this project is the Ames Housing Dataset, which contains detailed information on residential properties in Ames, Iowa. It includes various features such as:
 
-Lot Area
+- Lot Area
+- Year Built
+- Overall Quality
+- Total Basement Area
+- Garage Area
+- Number of Bathrooms
+  And more...
 
-Year Built
-
-Overall Quality
-
-Total Basement Area
-
-Garage Area
-
-Number of Bathrooms
-
-And more...
-
-Dependencies
+*Dependencies*
 
 Ensure you have the following Python libraries installed before running the notebook:
 
